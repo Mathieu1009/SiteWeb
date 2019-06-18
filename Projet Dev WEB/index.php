@@ -226,43 +226,47 @@
               <div class="block-title">
                 <h3>Quelques clients</h3>
               </div>
-
+              
               <div class="row">
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    <a href="https://handicapautonome.fr" target="_blank"><img src="images/clients/handicap.jpg" alt="image"></a>
+              <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <img src="images/clients/handicap.jpg" alt="image">
+                        <a href="https://handicapautonome.fr" target="_blank"><h4>handicap autonome</h4></a>
+                        <p>Le site handicap autonome est un site d'une association pour personne à mobilité reduite</p>
+                      </div>
+                    </div>
                   </div>
-                </div>
 
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    <a href="https://lacuisinedepauline.fr" target="_blank"><img src="images/clients/camion.png" alt="image"></a>
+              <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <img src="images/clients/camion.png" alt="image"><br/><br/>
+                        <a href="https://lacuisinedepauline.fr" target="_blank"><h4>la cuisine de pauline</h4></a>
+                        <p>Le site la cuisine de pauline est le site d'une entreprise de traiteur livreur</p>
+                      </div>
+                    </div>
                   </div>
-                </div>
 
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    <a href="http://www.emelinepichonosteopathe.com" target="_blank"><img src="images/clients/osteopath.png" alt="image"></a>
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <img src="images/clients/osteopath.png" alt="image">
+                        <a href="https://emelinepichonosteopathe.com" target="_blank"><h4>Emeline pichon</h4></a>
+                        <p>Le site emelinepichonosteopathe est le site d'une osteopath proche d'd’Angoulême</p>
+                      </div>
+                    </div>
                   </div>
-                </div>
 
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    
+                  <div class="col-sm-6 col-md-3 subpage-block">
+                    <div class="service-block"> 
+                      <div class="service-info">
+                        <img src="images/clients/volteo.jpg" alt="image">
+                        <a href="https://batteries-service.fr" target="_blank"><h4>Volteo batteries service</h4></a>
+                        <p>Le site batteries-service.fr est un site vitre d'une entreprise de batterie</p>
+                      </div>
+                    </div>
                   </div>
-                </div>
-
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    
-                  </div>
-                </div>
-
-                <div class="col-sm-4 col-md-2 subpage-block">
-                  <div class="client_block">
-                    
-                  </div>
-                </div>
               </div>
               <!-- End of Clients block -->
             </section>
